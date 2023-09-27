@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+## Skills
+- Java
+- Python
+- Quick learner
+
+## Links
+- Github.com/Edwards67
+
+## Career Objective
+- Computer Science, hands on experience, working on apps, programs, etc for any platform
+
+## Aspirations
+- Be the best I can be 
 <!--
 **Edwards67/Edwards67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
