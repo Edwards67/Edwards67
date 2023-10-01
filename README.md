@@ -13,6 +13,9 @@
 
 ## Aspirations
 - Be the best I can be 
+
+![Alt text](https://media1.giphy.com/media/fsKBYdGBRgDxClJy1f/giphy.gif?cid%253Decf05e472gvmxnenq9gcg3jkrgkm3nz703vauimj0u8thjlz%2526ep%253Dv1_gifs_search%2526rid%253Dgiphy.gif%2526ct%253Dg)
+
 <iframe src="https://giphy.com/embed/fsKBYdGBRgDxClJy1f" width="384" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CreateDrop-america-native-nativeamerica-fsKBYdGBRgDxClJy1f">via GIPHY</a></p>
 <!--
 **Edwards67/Edwards67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
